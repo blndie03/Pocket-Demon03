@@ -1,5 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Route 4 (39) - LAPLACE TOWN (2)
+39,141,0,2,0,128
 # Safari Zone outside (66) - Route 1 (5)
 66,North,18,5,South,0
 # Cedolan City (7) - Route 6 (44)
@@ -18,5 +20,5 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 4 (39) - LAPLACE TOWN (2)
-39,141,0,2,0,128
+# mvp_GRAVEYARD (92) - mvp_LAPLACER TOWN (4)
+92,49,0,4,0,16
