@@ -20,7 +20,7 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# mvp_KIMARIS TOWN (94) - Rt. 198 (93)
+94,West,4,93,East,0
 # mvp_GRAVEYARD (92) - mvp_LAPLACER TOWN (4)
-92,East,0,4,West,16
-# mvp_LAPLACER TOWN (4) - Rt. 198 (93)
-4,11,0,93,0,45
+92,East,0,4,West,11
