@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[001]   # Intro
+[001]   # INTRO
 Name = Intro
 #-------------------------------
 [002]   # LAPLACE TOWN
@@ -15,8 +15,9 @@ Name = \PN's house
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
-[004]   # mvp_LAPLACER TOWN
+[004]   # mvp_LAPLACE TOWN
 Name = Pokémon Lab
+ShowArea = true
 MapPosition = 0,13,12
 #-------------------------------
 [005]   # Route 1
@@ -397,7 +398,22 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
+[092]   # mvp_GRAVEYARD
+ShowArea = true
+#-------------------------------
 [093]   # Rt. 198
 Name = Rt. 198
+ShowArea = true
 #-------------------------------
 [094]   # mvp_KIMARIS TOWN
+Name = mvp_KIMARIS TOWN
+ShowArea = true
+#-------------------------------
+[095]   # Rt. 199
+ShowArea = true
+#-------------------------------
+[096]   # mvp_STOLAS CITY
+ShowArea = true
+#-------------------------------
+[097]   # mvp_FORREST AREA
+ShowArea = true
