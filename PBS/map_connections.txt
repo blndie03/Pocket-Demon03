@@ -22,15 +22,15 @@
 69,North,0,66,South,10
 # mvp_FORNEUS TOWN (98) - Rt. 200 (107)
 98,East,0,107,West,0
+# Rt. 199 (95) - mvp_STOLAS CITY (96)
+95,South,6,96,North,0
+# mvp_KIMARIS TOWN (94) - Rt. 199 (95)
+94,East,0,95,West,2
 # Rt. 198 (93) - mvp_KIMARIS TOWN (94)
 93,East,0,94,West,9
-# Rt. 199 (95) - mvp_KIMARIS TOWN (94)
-95,West,2,94,East,0
 # mvp_LAPLACE TOWN (4) - Rt. 198 (93)
 4,North,12,93,South,0
 # Rt. 202 (100) - mvp_LAPLACE TOWN (4)
 100,North,0,4,South,1
 # mvp_GRAVEYARD (92) - mvp_LAPLACE TOWN (4)
 92,East,0,4,West,11
-# mvp_STOLAS CITY (96) - Rt. 199 (95)
-96,North,0,95,South,2
