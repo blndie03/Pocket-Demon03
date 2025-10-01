@@ -20,12 +20,10 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# mvp_FORNEUS TOWN (98) - Rt. 200 (107)
+98,East,0,107,West,0
 # Rt. 199 (95) - mvp_STOLAS CITY (96)
 95,South,6,96,North,0
-# mvp_FORNEUS TOWN (98) - mvp_STOLAS CITY (96)
-98,North,10,96,South,0
-# Rt. 200 (107) - mvp_STOLAS CITY (96)
-107,West,0,96,East,32
 # mvp_KIMARIS TOWN (94) - Rt. 199 (95)
 94,East,0,95,West,2
 # Rt. 198 (93) - mvp_KIMARIS TOWN (94)
@@ -36,7 +34,3 @@
 100,North,0,4,South,1
 # mvp_GRAVEYARD (92) - mvp_LAPLACE TOWN (4)
 92,East,0,4,West,11
-# mvp_FORNEUS TOWN (98) - Rt. 202 (100)
-98,West,0,100,East,35
-# Rt. 200 (107) - mvp_FORNEUS TOWN (98)
-107,West,31,98,East,0
