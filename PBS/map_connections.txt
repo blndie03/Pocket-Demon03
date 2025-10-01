@@ -2,10 +2,6 @@
 #-------------------------------
 # Route 4 (39) - LAPLACE TOWN (2)
 39,141,0,2,0,128
-# mvp_GRAVEYARD (92) - mvp_LAPLACE TOWN (4)
-92,East,0,4,West,11
-# Rt. 198 (93) - mvp_LAPLACE TOWN (4)
-93,South,0,4,North,12
 # Safari Zone outside (66) - Route 1 (5)
 66,North,18,5,South,0
 # Cedolan City (7) - Route 6 (44)
@@ -26,5 +22,21 @@
 69,North,0,66,South,10
 # Rt. 199 (95) - mvp_STOLAS CITY (96)
 95,South,6,96,North,0
+# mvp_FORNEUS TOWN (98) - mvp_STOLAS CITY (96)
+98,North,10,96,South,0
+# Rt. 200 (107) - mvp_STOLAS CITY (96)
+107,West,0,96,East,32
 # mvp_KIMARIS TOWN (94) - Rt. 199 (95)
-94,East,0,95,West,0
+94,East,0,95,West,2
+# Rt. 198 (93) - mvp_KIMARIS TOWN (94)
+93,East,0,94,West,9
+# mvp_LAPLACE TOWN (4) - Rt. 198 (93)
+4,North,12,93,South,0
+# Rt. 202 (100) - mvp_LAPLACE TOWN (4)
+100,North,0,4,South,1
+# mvp_GRAVEYARD (92) - mvp_LAPLACE TOWN (4)
+92,East,0,4,West,11
+# mvp_FORNEUS TOWN (98) - Rt. 202 (100)
+98,West,0,100,East,35
+# Rt. 200 (107) - mvp_FORNEUS TOWN (98)
+107,West,31,98,East,0
